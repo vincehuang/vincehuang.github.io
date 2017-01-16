@@ -1,4 +1,4 @@
-markdown: rdiscount
+markdown: kramdown 
 permalink: /:year/:month/:title/
 url: http://115.159.213.65:4000/
 author: 顺德码农
