@@ -2,7 +2,7 @@ markdown: kramdown
 permalink: /:year/:month/:title/
 url: http://115.159.213.65:4000/
 author: 顺德码农
-highlighter: pygments
+highlighter: rouge 
 production_url : http://115.159.213.65:4000/
 name: 码农
 description: 顺德码农的日志
